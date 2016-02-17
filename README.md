@@ -1,6 +1,7 @@
 # vsphere
 Added vsphere_helper.py as the commandline interface
 
+<pre>
 usage: vsphere_helper.py [-h] [-a VAPPNAME] [-s SNAPNAME]
 
                          [{list,createsnapshot,revertsnapshot,deletesnapshot,ip,poweron,poweroff}]
@@ -15,3 +16,4 @@ optional arguments:
                         vpp name
   -s SNAPNAME, --snapname SNAPNAME
                         snapshot name
+</pre>
