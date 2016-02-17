@@ -1,4 +1,4 @@
-# vsphere
+# vsphere helper
 Added vsphere_helper.py as the commandline interface
 
 <pre>
