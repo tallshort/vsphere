@@ -16,4 +16,5 @@ optional arguments:
                         vpp name
   -s SNAPNAME, --snapname SNAPNAME
                         snapshot name
+  --confirmed           confirm the arguments without interaction
 </pre>
